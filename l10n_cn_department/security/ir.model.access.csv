@@ -1,0 +1,2 @@
+id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
+access_l10n_cn_department_l10n_cn_department,l10n_cn_department.l10n_cn_department,model_l10n_cn_department_l10n_cn_department,,1,0,0,0
